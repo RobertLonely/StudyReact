@@ -1,0 +1,7 @@
+.myDiv {
+  font-style: italic;
+  color: red;
+}
+:global(.fs) {
+  font-size: 20px;
+}
